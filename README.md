@@ -1,2 +1,6 @@
-# Atividades-de-WEB
-Atividades realizadas durante o núcleo WEB, Front-end e back-end (basico)
+# SITES
+Atividades realizadas durante o núcleo WEB (basico)
+
+https://travell-now.netlify.app
+https://zzomentum.netlify.app
+
